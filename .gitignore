@@ -5,3 +5,4 @@ data_orig
 old
 *.ipynb
 !SupervisedClassification.ipynb
+!exercise/credit_scoring_with_python.ipynb
