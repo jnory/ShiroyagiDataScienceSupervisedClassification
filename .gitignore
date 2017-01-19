@@ -1,0 +1,7 @@
+.DS_Store
+tex
+data_orig
+.ipynb_checkpoints
+old
+*.ipynb
+!SupervisedClassification.ipynb
